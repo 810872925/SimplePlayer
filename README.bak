@@ -1,9 +1,5 @@
 跨平台音视频流媒体播放器
 
-Windows和linux下都不用安装任何软件，解压即用。ubuntu/centos/suse/win7/win8/win10下都进行过测试。
-
-抽空写开发过程博客中。。。
-
 下载地址：
 
 https://github.com/bluesky1982/SimplePlayer.git
@@ -30,4 +26,6 @@ UI主线程定时从视频帧信息队列中取视频帧信息，然后渲染到窗口。从字幕信息队列取字幕
 
 使用LVS、Keepalived、nginx搭建了流媒体服务端，进行了播放测试。
 
+Windows和linux下都不用安装任何软件，解压即用。ubuntu/centos/suse/win7/win8/win10下都进行过测试。
 
+抽空写开发过程博客中。。。
